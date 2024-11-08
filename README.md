@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.tenor.com/fPfYP38Yn4MAAAAM/piplup-run-see-you-pokemon-cute-happy-sunnysb.gif"  />
+  <img height="300" width="300" src="https://media.tenor.com/fPfYP38Yn4MAAAAM/piplup-run-see-you-pokemon-cute-happy-sunnysb.gif"  />
 </div>
 
 ###
