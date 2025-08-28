@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img align="right" src="https://via.placeholder.com/200" width="200" alt="My Image">
+<img align="right" src="numanpic.jpg" width="200" alt="My Image">
 
 I'm Numan <br><br>
 - 📚 I'm currently learning :-<br>
