@@ -1,7 +1,6 @@
 # 💫 About Me:
-<table>
-<tr>
-<td>
+
+<img align="right" src="https://via.placeholder.com/200" width="200" alt="My Image">
 
 I'm Numan <br><br>
 - 📚 I'm currently learning :-<br>
@@ -10,12 +9,6 @@ I'm Numan <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;⭐ Game Development<br><br>
 - ⚡ In my free time I sleep or do small simple projects
 
-</td>
-<td>
-  <img src="https://via.placeholder.com/200" alt="My Image" width="200"/>
-</td>
-</tr>
-</table>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ragincman) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@raginc6626) 
