@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Raginc<br><br>- 📚 I'm currently learning Game Development<br>- ⚡ In my free time I sleep or do small simple projects</p>
+<p align="left">I'm Numan<br><br>- 📚 I'm currently learning Game Development<br>- ⚡ In my free time I sleep or do small simple projects</p>
 
 ###
 
